@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ed0919d-3b72-45ac-836e-38c8652e9e9d" name="Default" comment="" />
+    <list default="true" id="3ed0919d-3b72-45ac-836e-38c8652e9e9d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Reference and Practice/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Reference and Practice/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -392,6 +394,14 @@
       <option name="presentableId" value="Default" />
       <updated>1501564496096</updated>
     </task>
+    <task id="LOCAL-00001" summary="Practice Problems and reference problems in Python. Use incase you are learning are revising. Questions cover a variety of fundamentals generators/classes/functions/lambda/printing/strings etc.">
+      <created>1514053656739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1514053656739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -445,8 +455,22 @@
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practice Problems and reference problems in Python. Use incase you are learning are revising. Questions cover a variety of fundamentals generators/classes/functions/lambda/printing/strings etc." />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice Problems and reference problems in Python. Use incase you are learning are revising. Questions cover a variety of fundamentals generators/classes/functions/lambda/printing/strings etc." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
